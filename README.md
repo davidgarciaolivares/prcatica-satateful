@@ -8,10 +8,7 @@ Se denomina desarrollo de aplicaciones móviles al conjunto de conocimientos, t�
 
 David Garcia Olivares -- floating action button 190650
 
-La practica consiste en tener un boton flotante (Un botón de acción flotante para promover una acción principal en la aplicación
-Aparece delante de todo el contenido de la pantalla, normalmente como una forma circular con un icono en el centro.
-Los botones de acción flotantes se utilizan con mayor frecuencia en el campo Scaffold.floatingActionButton .
-Flutter cuenta con 4 tipos de botones: TextButton, ElevatedButton, OutlinedButton e IconButton, los cuales nos permiten habilitar interacciones con el usuario.
+La practica consiste en tener un boton que al presionarlo debran pasar varias imagenes en la pantalla
 
 Herramientas.
 
@@ -23,14 +20,13 @@ Dart v3.50.0
 
 Metodologia.
 
-el codigo fue proporcionado por el docente de la materia de desarrollo movil el cual consiste en
-una aplicacion a la que le teniamos que insertar un boton flotante y ese boton debe deslizar un menu desplegable
-con 3 iconos para poder observar la informacion del estudiante, cabe señalar que estos iconos contienen informacion 
-de los datos tanto personales como academicos del estudiante.
+el codigo fue proporcionado por el docente de la materia de desarrollo movil el cual consiste en que contiene un boton al cual al presionarlo deberan ir
+pasando un carrusel de imagenes
 
 
 Resultado 
 
+![marvel](https://user-images.githubusercontent.com/101015897/194675595-7687c73c-9bbb-4470-9647-b06d326e6703.jpeg)
 
 
 
